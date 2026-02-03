@@ -4,3 +4,5 @@ ATRS Billing/.vs/ATRS Billing.slnx/FileContentIndex/a327fbf7-b099-4b56-8988-467e
 *.db
 *.db-shm
 *.db-wal
+*.cs
+*.cache
